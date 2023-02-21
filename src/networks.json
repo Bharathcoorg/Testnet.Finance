@@ -19,7 +19,7 @@
       "symbol": "WETH"
     }
   },
-  "2021": {
+  "997": {
     "name": "5irechain",
     "rpc": "https://rpc-testnet.5ire.network",
     "chainId": 997,
